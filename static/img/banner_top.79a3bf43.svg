@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="577px" height="101px" viewBox="0 0 577 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>top_text</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="0%" y2="189.569636%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="GothamPro-Black, Gotham Pro" font-size="60" font-weight="700">
+        <g id="画板" transform="translate(-888.000000, -891.000000)" fill-rule="nonzero">
+            <g id="编组-17" transform="translate(672.000000, 94.000000)">
+                <g id="编组-21" transform="translate(216.000000, 797.000000)">
+                    <text id="Tron-Basis-Cash" fill="url(#linearGradient-1)">
+                        <tspan x="0" y="44">TRON BASIS CASH</tspan>
+                    </text>
+                    <text id="Tron-Basis-Cash备份" fill="url(#linearGradient-2)" opacity="0.405529204" transform="translate(288.500000, 74.000000) scale(1, -1) translate(-288.500000, -74.000000) ">
+                        <tspan x="0" y="91">TRON BASIS CASH</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
